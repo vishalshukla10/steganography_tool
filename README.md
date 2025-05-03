@@ -1,3 +1,5 @@
+# Steganography Tool
+
 This is a simple Python-based tool for hiding messages in images using steganography. The tool provides two main functionalities:
 
 1. **Encoding** - Hide a secret message within an image.
